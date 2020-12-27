@@ -17,7 +17,7 @@ const skills = [
     {
         icon:repair,
         title:"Backend Development",
-        about: "making database using rest api and mongodb"
+        about: "making database using rest api mongodb"
     },
     {
         icon:api,
