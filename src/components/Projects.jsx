@@ -3,7 +3,7 @@ import React from 'react';
 const Projects = () => {
     return (
         <div>
-            hey this is my projects
+            <h5>Coming Soon....</h5>
         </div>
     )
 }
