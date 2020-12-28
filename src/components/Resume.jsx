@@ -8,11 +8,11 @@ const languages=[
     {
         icon: python,
         name: 'Python',
-        level: '45'
+        level: '70'
     },
     {
         icon: react,
-        name: 'Java',
+        name: 'Dart',
         level: '60'
     },
     {
@@ -22,17 +22,17 @@ const languages=[
     },
     {
         icon: react,
-        name: 'HTML',
-        level: '80'
+        name: 'CSS',
+        level: '40'
     },
     {
         icon: react,
-        name: 'HTML',
-        level: '80'
+        name: 'Reactjs',
+        level: '60'
     },
     {
         icon: react,
-        name: 'HTML',
+        name: 'Nodejs',
         level: '80'
     },
 ]
@@ -40,13 +40,13 @@ const languages=[
 const tools = [
     {
         icon: react,
-        name: 'Figma',
-        level: '85'
+        name: 'Android Studio',
+        level: '80'
     },
     {
         icon: react,
         name: 'Flutter',
-        level: '50'
+        level: '70'
     },
     {
         icon: react,
