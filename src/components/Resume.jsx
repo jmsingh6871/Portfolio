@@ -8,12 +8,12 @@ const languages=[
     {
         icon: python,
         name: 'Python',
-        level: '70'
+        level: '45'
     },
     {
         icon: react,
-        name: 'Dart',
-        level: '40'
+        name: 'Java',
+        level: '60'
     },
     {
         icon: react,
@@ -22,17 +22,17 @@ const languages=[
     },
     {
         icon: react,
-        name: 'CSS',
-        level: '50'
+        name: 'HTML',
+        level: '80'
     },
     {
         icon: react,
-        name: 'Reactjs',
-        level: '60'
+        name: 'HTML',
+        level: '80'
     },
     {
         icon: react,
-        name: 'Nodejs',
+        name: 'HTML',
         level: '80'
     },
 ]
@@ -40,19 +40,19 @@ const languages=[
 const tools = [
     {
         icon: react,
-        name: 'Android Studio',
+        name: 'Figma',
         level: '85'
     },
     {
         icon: react,
         name: 'Flutter',
-        level: '80'
+        level: '50'
     },
     {
         icon: react,
         name: 'Mongodb',
         level: '60'
-    },60
+    },
 ]
 
 const Resume = () => {
