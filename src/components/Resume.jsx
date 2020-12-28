@@ -27,7 +27,7 @@ const languages=[
     },
     {
         icon: react,
-        name: 'Reactjs,
+        name: 'Reactjs',
         level: '60'
     },
     {
@@ -40,19 +40,19 @@ const languages=[
 const tools = [
     {
         icon: react,
-        name: 'Figma',
+        name: 'Android Studio',
         level: '85'
     },
     {
         icon: react,
         name: 'Flutter',
-        level: '50'
+        level: '80'
     },
     {
         icon: react,
         name: 'Mongodb',
         level: '60'
-    },
+    },60
 ]
 
 const Resume = () => {
